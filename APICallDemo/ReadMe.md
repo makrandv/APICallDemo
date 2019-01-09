@@ -12,6 +12,8 @@ Nuget Packages Installed
 4. "SpecFlow" version="2.4.1"
 5. "System.ValueTuple" version="4.3.0"
 
+If using Visual Studio 2015 as IDE , then need to install "Microsoft.Net.Compilers 2.0+" nuget package
+
 Scripting Language : C#
 
 Test Strategy : 
@@ -44,5 +46,6 @@ Test Execution :
 	d. On the Test Explorer windows , Select "APICallDemo" test 
 	e. Right click on the "APICallDemo" test and select "Run Selected Tests" option
 	f. Test should run successfully and show the result
-	
-	Alternatively, open the "APIResponse.Feature" and Right click on editor window select "Run SpecFlow Scenarios" option to run the test. 
+
+Alternatively, open the "APIResponse.Feature" and Right click on editor window select "Run SpecFlow Scenarios" option to run the test.
+
